@@ -51,20 +51,6 @@ public class OurMath
         }
     }
 
-public static int[] MultiplyTwoRows(int[] a, int[] b)
-	{
-		return null;
-	}
-
-	public static int[] MultiplyColumns(int[] a, int[] b) 
-	{
-		return null; 
-	}
-
-    public static int[] SumOneRow(int[] a)
-	{
-		return null;
-	}
 
 	public static int CompareTo(int[][] a, int[][] b)
 	{
